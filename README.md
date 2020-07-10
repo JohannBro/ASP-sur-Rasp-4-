@@ -2,7 +2,7 @@
 
 Auteur : Johann Brochier - 2020
 
-Ce document est un pense -bête pour admins systèmes. Je vais tenter d'ajouter des commentaires pour que tout le monde puisse comprendre sans trop de pré-requis de connaissances.
+Ce document est un pense-bête pour admins systèmes. Je n'ai ni le temps ni l'envie d'en faire un tuto pour tout le monde.
 
 Prérequis
 
