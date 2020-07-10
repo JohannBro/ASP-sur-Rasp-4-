@@ -88,7 +88,7 @@ sudo systemctl restart apache2
 
 Générer la webApp (exemple Visual Studio 2019) et la publier dans /var/www/webApp
 
-![](.%5Cimages%5Cpubli.png)
+![](./images/publi.png)
 
 Créer le service qui va démarrer et monitorer la webApp ASP.net
 
