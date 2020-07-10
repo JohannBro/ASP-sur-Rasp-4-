@@ -2,6 +2,8 @@
 
 Auteur : Johann Brochier - 2020
 
+Ce document est un pense -bête pour admins systèmes. Je vais tenter d'ajouter des commentaires pour que tout le monde puisse comprendre sans trop de pré-requis de connaissances.
+
 Prérequis
 
 * Raspberry PI 4 avec Ubuntu server 20.04 LTS
