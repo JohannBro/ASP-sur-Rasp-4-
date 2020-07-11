@@ -1,8 +1,6 @@
 **Configuration d'ASP.net Core Runtime 3.1.x sur Raspberry PI 4 avec Ubuntu server 20.04 LTS**
 
-Auteur : Johann Brochier - 2020
-
-Ce document est un pense-bête pour admins systèmes. Je n'ai ni le temps ni l'envie d'en faire un tuto pour tout le monde.
+Auteur : Johann Brochier - 2020 
 
 Prérequis
 
