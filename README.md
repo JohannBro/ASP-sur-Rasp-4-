@@ -4,7 +4,7 @@ Auteur : Johann Brochier - 2020
 
 Prérequis
 
-* Raspberry PI 4 avec Ubuntu server 20.04 LTS
+* Raspberry PI 4 avec Ubuntu server 20.04 LTS (64 bits)
 * Serveur Web Apache 
 * Mono complete
 
@@ -89,6 +89,8 @@ sudo systemctl restart apache2
 Générer la webApp (exemple Visual Studio 2019) et la publier dans /var/www/webApp
 
 ![](./images/publi.png)
+
+Le lecteur Z: est un montage SMB directement dans le répertoire de publication sur le serveur.
 
 Créer le service qui va démarrer et monitorer la webApp ASP.net
 
